@@ -1,0 +1,8 @@
+{
+  "name": "LayTools - Tools for Digital Printing Professionals",
+  "description": "LayTools, from Laysander Technology, offers a suite of powerful, client-side tools designed to enhance productivity for businesses in advertising, textile, and industrial printing. All tools run in your browser for maximum speed and privacy.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}

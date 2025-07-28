@@ -42,9 +42,9 @@ const Footer: React.FC = () => {
                     <div className="lg:mx-auto">
                         <h3 className="text-xl font-black mb-3 uppercase tracking-wider">Follow Us</h3>
                         <div className="flex justify-center md:justify-start gap-4">
-                            <a href="#" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#551EFD] transition-colors"><TwitterIcon /></a>
-                            <a href="#" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#551EFD] transition-colors"><TikTokIcon /></a>
-                            <a href="#" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#551EFD] transition-colors"><InstagramIcon /></a>
+                            <a href="https://twitter.com/laysander" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#551EFD] transition-colors"><TwitterIcon /></a>
+                            <a href="https://www.tiktok.com/@laysander.technology" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#551EFD] transition-colors"><TikTokIcon /></a>
+                            <a href="https://www.instagram.com/laysander.technology/" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#551EFD] transition-colors"><InstagramIcon /></a>
                         </div>
                     </div>
                 </div>
